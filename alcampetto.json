@@ -1,0 +1,15 @@
+[
+  {
+    "id": "001",
+    "data": "2025-02-20",
+    "nome": "Campetto di Parco Vieira De Mello",
+    "nome_en": "Vieira De Mello Park Basketball Court",
+    "indirizzo": "Via Benedetto Croce",
+    "zona": "Milano / Municipio 8",
+    "coordinate": { "lat": 45.49409, "lng": 9.11730 },
+    "note": "Ben tenuto. Superficie in buone condizioni",
+    "note_en": "Well maintained. Surface in good condition",
+    "recintato": false, "gratuito": true, "illuminato": false, "coperto": false,
+    "foto": { "overview": "photos/001/overview.jpg", "dettagli": ["photos/001/dettaglio-1.jpg", "photos/001/dettaglio-2.jpg", "photos/001/dettaglio-3.jpg"] }
+  }
+]
