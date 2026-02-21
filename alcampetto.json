@@ -11,5 +11,18 @@
     "note_en": "Well maintained. Surface in good condition",
     "recintato": false, "gratuito": true, "illuminato": false, "coperto": false,
     "foto": { "overview": "photos/001/overview.jpg", "dettagli": ["photos/001/dettaglio-1.jpg", "photos/001/dettaglio-2.jpg", "photos/001/dettaglio-3.jpg"] }
+  },
+  {
+    "id": "002",
+    "data": "2025-02-21",
+    "nome": "Campetto di Parco Ghezzi",
+    "nome_en": "Ghezzi Park Basketball Court",
+    "indirizzo": "Via Alessandro Manzoni",
+    "zona": "Novate Milanese",
+    "coordinate": { "lat": 45.53423, "lng": 9.13799 },
+    "note": "Superficie in buone condizioni, uno dei due canestri è sprovvisto di retina.",
+    "note_en": "Surface in good condition. In one of the basket the net is missing.",
+    "recintato": false, "gratuito": true, "illuminato": false, "coperto": false,
+    "foto": { "overview": "photos/002/overview.jpg", "dettagli": ["photos/002/dettaglio-1.jpg", "photos/002/dettaglio-2.jpg"] }
   }
 ]
